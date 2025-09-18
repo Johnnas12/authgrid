@@ -1,0 +1,27 @@
+{
+  "name": "authgrid",
+  "version": "1.0.0",
+  "description": "Sclable and flexible Authentication service in nodejs",
+  "main": "src/index.ts",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnnas12/authgrid.git"
+  },
+  "keywords": [
+    "auth",
+    "authentication",
+    "service"
+  ],
+  "author": "Yohanes Mesfin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Johnnas12/authgrid/issues"
+  },
+  "homepage": "https://github.com/Johnnas12/authgrid#readme"
+}
